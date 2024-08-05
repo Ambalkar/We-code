@@ -2,3 +2,4 @@ this file fixes bugs
 bugs are fixed more bugs could be fixed if occured
 another bug fixed 
 4th bug is detected and fixed
+footer note added
